@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../2번째 문제/2번째 문제.vcxproj" />
+  <Project Path="../옵션문제/옵션문제.vcxproj" />
+  <Project Path="실습0318.vcxproj" />
+</Solution>
