@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../20260401 자료구조 실습 옵셔널 문제/20260401 자료구조 실습 옵셔널 문제.vcxproj" />
+  <Project Path="../20260401 자료구조실습 2번째 문제/20260401 자료구조실습 2번째 문제.vcxproj" />
+  <Project Path="20260401 자료구조 실습.vcxproj" />
+</Solution>
